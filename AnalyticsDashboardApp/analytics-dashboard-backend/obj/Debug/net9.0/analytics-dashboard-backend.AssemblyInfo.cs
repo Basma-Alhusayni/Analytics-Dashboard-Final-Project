@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("analytics-dashboard-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9ef48027835f042adc328b9922e54c1211978d")]
 [assembly: System.Reflection.AssemblyProductAttribute("analytics-dashboard-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("analytics-dashboard-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
