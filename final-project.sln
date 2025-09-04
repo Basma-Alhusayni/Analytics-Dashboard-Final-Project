@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnalyticsDashboardApp", "AnalyticsDashboardApp", "{B5E33061-38AE-8C2F-7D5E-9292F6D0F22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "analytics-dashboard-backend", "AnalyticsDashboardApp\analytics-dashboard-backend\analytics-dashboard-backend.csproj", "{10775A7A-1BE5-581B-4DD5-E33C58EA0490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10775A7A-1BE5-581B-4DD5-E33C58EA0490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10775A7A-1BE5-581B-4DD5-E33C58EA0490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10775A7A-1BE5-581B-4DD5-E33C58EA0490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10775A7A-1BE5-581B-4DD5-E33C58EA0490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10775A7A-1BE5-581B-4DD5-E33C58EA0490} = {B5E33061-38AE-8C2F-7D5E-9292F6D0F22A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFB102D9-8F8D-4A04-B3B7-7DE7CEC7F33E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WvIKve4NPPTH2qeW46B2lzfeDQuBsAHXrV4Q908JQkU=",
+  "Source": "analytics-dashboard-backend",
+  "BasePath": "_content/analytics-dashboard-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
